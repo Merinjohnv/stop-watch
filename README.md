@@ -43,4 +43,4 @@ Event handling in JavaScript
 
 ## 🔗 Live Demo
 
-(Add GitHub Pages link after deployment)
+https://merinjohnv.github.io/stop-watch/
