@@ -1,11 +1,11 @@
-## ⏱ Stopwatch Web App
+## Stopwatch Web App
 
 A simple and responsive Stopwatch application built using HTML, CSS, and JavaScript.
 It allows users to start, stop, reset, and record lap times with smooth real-time updates.
 
 ---
 
-## 🚀 Features
+## Features
 
 Start / Stop / Reset controls
 
@@ -19,7 +19,7 @@ Beginner-friendly project
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 HTML
 
@@ -29,7 +29,7 @@ JavaScript
 
 ---
 
-## 🌟 What I Learned
+## What I Learned
 
 Using setInterval() and clearInterval()
 
@@ -41,6 +41,6 @@ Event handling in JavaScript
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 https://merinjohnv.github.io/stop-watch/
